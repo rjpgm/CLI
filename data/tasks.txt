@@ -1,0 +1,2 @@
+1|Estudar C++|1
+2|Finalizar projeto CLI|0
